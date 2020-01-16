@@ -1,0 +1,15 @@
+@import '~vuetify/dist/vuetify.min.css';
+@import '~@mdi/font/css/materialdesignicons.min.css';
+@import '~material-design-icons-iconfont/dist/material-design-icons.css';
+
+// Variables
+@import 'variables';
+
+@import 'snippets/style';
+@import 'snippets/header';
+@import 'snippets/footer';
+@import 'snippets/loader';
+
+
+// $color-pack: false; // The color pack increases the CSS export size by ~30kb
+// @import '~vuetify/src/styles/main.sass';
