@@ -8,6 +8,15 @@
         "moirei.com"
     ],
     "description": "A MOIREI website.",
+    "homepage": "https://github.com/augustusnaz/scaffold-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Augustus Okoye",
+            "email": "augustusokoye@moirei.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.2",
         "artesaos/seotools": "^0.16.0",

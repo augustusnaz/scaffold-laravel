@@ -1,7 +1,6 @@
 <div><img src="https://www.moirei.com/img/logo.png" height="60"> </div>
 
 
-
 Quickly bootstrap a laravel project with fundamental front-end and backend utilities.
 
 
@@ -22,4 +21,4 @@ Quickly bootstrap a laravel project with fundamental front-end and backend utili
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
